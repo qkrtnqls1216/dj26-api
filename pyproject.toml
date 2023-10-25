@@ -1,6 +1,6 @@
 [project]
 name = "dj26-api"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = [
     {name = "qkrtnqls1216", email = "qkrtnqls991216@gmail.com"},
